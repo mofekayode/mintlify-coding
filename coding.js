@@ -46,7 +46,6 @@ const weeklyUpdates=()=>{
     })
 
     let result =[]
-
     let firstDate =0
     let currentDate=1
     let currentUpdateCount=0
